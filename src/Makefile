@@ -1,6 +1,7 @@
 # ESP-r install makefile called by INSTALL script.
 # (see README file before installing).
-SRCdir=`pwd`
+new line here and delete scr pwd
+
 
 PROGRAMS = aco bps c2e cdb clm dfs dfv e2r ecnv eco enet grd harmonizer ish mfs \
 	   mld mrt pdb prj res vew
